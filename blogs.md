@@ -9,6 +9,6 @@ order: 1
 
 [Jack Gilmartin](/blogs_jack/)
 
-[Adrian Fearon](/blogs_adrian/)
+[Adrian Fearon](/adrian/)
 
 [William Corr](/blogs_william/)
