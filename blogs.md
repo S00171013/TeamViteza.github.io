@@ -7,8 +7,8 @@ menu: true
 order: 1
 ---
 
-[Jack Gilmartin](/blogs_jack/)
+[Jack Gilmartin](/jack/)
 
-[Adrian Fearon](/blogs_adrian/)
+[Adrian Fearon](/adrian/)
 
-[William Corr](/blogs_william/)
+[William Corr](/william/)
