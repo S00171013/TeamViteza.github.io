@@ -66,7 +66,7 @@ S00171013:
     # paypal:          <username>
     # download:        <url>
 
-S00168347: # You can update your social links here Adrian.
+Fearonz: # You can update your social links here Adrian.
   name:              Adrian Fearon
   email:             fearonedm@outlook.com
   about:             |
@@ -83,7 +83,7 @@ S00168347: # You can update your social links here Adrian.
     background:      '#202020'
     overlay:         false
 
-S00168347: # Same goes for you here Will.
+S00168764: # Same goes for you here Will.
   name:              William Corr
   email:             s00168764@gmail.com
   about:             |

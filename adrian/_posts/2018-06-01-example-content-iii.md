@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example Content III
+title: Example Content III for Adrian
 description: >
   A page showing Hydejack-specific markdown content.
 image: /assets/img/blog/example-content-iii.jpg
