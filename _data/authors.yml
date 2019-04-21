@@ -16,11 +16,11 @@ S00171013:
 
   # This photo will be used in the about section
   picture:
-    path:            assets/img/user_icons/avatar-jack-128x128.jpg
+    path:            assets/img/user_icons/avatar-jack-128x128.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            assets/img/user_icons/avatar-jack-128x128.jpg
-      2x:            assets/img/user_icons/avatar-jack-256x256.jpg
+      1x:            assets/img/user_icons/avatar-jack-128x128.png
+      2x:            assets/img/user_icons/avatar-jack-256x256.png
 
   # Social media icons in sidebar
   # Comment/uncomment to show/hide
@@ -75,7 +75,12 @@ Fearonz: # You can update your social links here Adrian.
 
     Hi there, my name is Adrian Fearon and I am the lead audio programmer and composer of Team Viteză.
 
-  picture:           assets/img/user_icons/IMG_0189.JPG
+  picture:           
+   path:            assets/img/user_icons/avatar-adrian-128x128.png
+   srcset:
+     1x:            assets/img/user_icons/avatar-adrian-128x128.png
+     2x:            assets/img/user_icons/avatar-adrian-256x256.png
+
   twitter:           <username>
   github:            Fearonz
   accent_color:      '#268bd2'
@@ -89,7 +94,12 @@ S00168764: # Same goes for you here Will.
   about:             |
     Character designer and Programmer on Project Viteza
 
-  picture:           assets/img/user_icons/photo-adrian.jpg
+  picture:           
+   path:            assets/img/user_icons/avatar-will-128x128.png   
+   srcset:
+     1x:            assets/img/user_icons/avatar-will-128x128.png
+     2x:            assets/img/user_icons/avatar-will-256x256.png
+
   twitter:           <username>
   github:            s00168764
   accent_color:      '#268bd2'
