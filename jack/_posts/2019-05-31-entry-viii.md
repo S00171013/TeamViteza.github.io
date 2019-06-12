@@ -30,7 +30,7 @@ Sonic game had its backgrounds changing their elevation according to the height 
 level. To better illustrate what I mean, take a look at the image below.
 
 ![BG Elevation Example](/assets/img/post_images/jack_images/week-8-elevation-example.png){:.lead}
-In these screenshots from the original [Sonic](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game), take a look at the orange line I've placed atop the mountain in the background. Here we can see that the background's elevation has increased from the first image to the next.
+In these screenshots from the original Sonic, take a look at the orange line I've placed atop the mountain in the background. Here we can see that the background's elevation has increased from the first image to the next.
 {:.figure}
 
 For now, I've decided to un-parent the background from the Unity camera and extend the background's verticality.
@@ -50,7 +50,7 @@ that MS Paint couldn't get rid of. The finished product can be seen below.
 My prototype background. It's not much, but it should do the trick for now.
 {:.figure}
 
-![Proto-background](/assets/img/post_images/jack_images/week-8-proto-background.png){:.lead}
+![Proto-background](/assets/img/post_images/jack_images/week-8-proto-elevation.png){:.lead}
 A sample of the background's elevation changing in-game. Not final by any means, but good for testing.
 {:.figure}
 
