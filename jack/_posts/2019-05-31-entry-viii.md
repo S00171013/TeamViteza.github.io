@@ -41,10 +41,10 @@ For now, this current solution should suffice.
 # Creating a New Background
 
 Despite my aformentioned lack of art skills, I endeavoured to create my own stage background this week. I created it
-in Adobe Illustrator using the sample background parallax background mentioned above as a reference. Not much to
-mention here, getting the rough shape was easy enough, the hardest part was making the images completely 
-transparent by removing all the remaining white pixels that MS Paint couldn't get rid of. The finished 
-product can be seen below.
+in [Adobe Illustrator](https://en.wikipedia.org/wiki/Adobe_Illustrator) using the sample background parallax 
+background mentioned above as a reference. Not much to mention here, getting the rough shape was easy enough,
+the hardest part was making the images completely transparent by removing all the remaining white pixels 
+that MS Paint couldn't get rid of. The finished product can be seen below.
 
 ![Proto-background](/assets/img/post_images/jack_images/week-8-proto-background.png){:.lead}
 My prototype background. It's not much, but it should do the trick for now.
