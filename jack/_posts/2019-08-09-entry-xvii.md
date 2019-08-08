@@ -13,7 +13,7 @@ This week we've returned to our work on Project V. More below.
 With three weeks remaining until our deadline, we've decided that we should focus on creating one level for _Katt 
 Viteză_. One that will showcase what we wanted to get across through gameplay and certain game mechanics. It'll 
 be a tight time limit, but we should have something we can present in early September. For this reason, the 
-version of the game we'll be presenting will be titled _Katt Viteza and the Metallic Menace: Demo Version_.
+version of the game we'll be presenting will be titled _Katt Viteză and the Metallic Menace: Demo Version_.
 Take a look at our prototype cover art below.
 
 ![Prototype Title Art](/assets/img/post_images/jack_images/week-17-prototype-title-art.png){:.lead}
