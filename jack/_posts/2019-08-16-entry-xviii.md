@@ -34,6 +34,14 @@ appropriate place. I also made the bullets smaller to fit the blaster sprite's s
 Katt's blaster.
 {:.figure}
 
+For a long while the weapon fire mechanic would not work with the newer "s_katt" model I had been working with, 
+projectiles wouldn't fire, though they would fire if I used the older "proto_katt" model. First I realised that
+the bullet sprite's draw order was 0, meaning that every other sprite (including the backgrounds) would be drawn
+in front of it, rendering it invisible. After altering this value, I noticed the projectile would only appear 
+briefly when fired. Soon the reason dawned on me: s_katt's got sensors on either side of her, the projectile would
+hit the hitbox of one of these sensors and  disappear as soon as it spawned. Fixing the issue was simple enough, 
+just a case of ensuring in code that no projectile would collide with any object tagged "Sensor".
+
 It took some fiddling to get the blaster to keep its orientation synced up with Katt's so that it's always firing
 in the right direction. I'm still working at it because currently I have an issue where jumping for some reason 
 throws the blaster's rotation out of sync with Katt's rotation, which can cause bullets to fire behind her. Once
